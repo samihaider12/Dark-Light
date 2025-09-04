@@ -12,6 +12,7 @@
   </button>
 
     </v-btn>
+    
     <!-- Spacer pushes next elements to right -->
     <router-link to="/" class="mx-2 toolbar text-decoration-none">Home</router-link>
     <router-link to="/Detail" class="mx-2 toolbar text-decoration-none">Details</router-link>

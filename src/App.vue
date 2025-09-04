@@ -19,5 +19,6 @@ const theme = computed(() => store.getters.currentTheme)
 </template>
 
 <style scoped>
- 
-</style>
+
+
+</style> 
